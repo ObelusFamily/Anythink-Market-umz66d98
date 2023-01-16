@@ -1,6 +1,6 @@
 {
   "name": "anythink-market-front",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "node": "^16"
   },
